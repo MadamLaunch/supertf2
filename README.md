@@ -16,12 +16,14 @@ TF2 a broader assortment of offensive options.
 * [**Download**](https://github.com/FlaminSarge/tf2attributes/releases)
 * [**Source Code**](https://github.com/FlaminSarge/tf2attributes)
 
-###DHooks, from Dr!fter
+### DHooks, from Dr!fter
 
 * [**Download**](http://users.alliedmods.net/~drifter/builds/dhooks/)
 * [**Release Page**](https://forums.alliedmods.net/showthread.php?t=180114)
 
-### OnMyWeaponFired, from ShadowMarioBR (included in this repository/release)
+### OnMyWeaponFired, from ShadowMarioBR
+
+Included in this repository and release
 
 * [**Download/Release Page**](https://forums.alliedmods.net/showthread.php?t=318376)
 
